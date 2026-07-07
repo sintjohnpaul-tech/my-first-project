@@ -1,2 +1,3 @@
-console.log('Hello, World!');
-console.log('This is a simple Node.js application.');
+console.log("Hello from Node.js!");
+console.log("My first program!");
+console.log("I'm learning to code!");
